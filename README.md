@@ -43,7 +43,7 @@
 - [LinkedIn](https://www.linkedin.com/in/kayla-cromer/)
 
 ![Kayla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayla-cromer&show_icons=true&theme=radical)
-                                                
+```                                                
           .
         ('
         '|
@@ -69,3 +69,4 @@
      :;  |        |      |  |/)
       ;: `-.._    /__..--'\.' ;:
           :;  `--' :;   :;
+```
