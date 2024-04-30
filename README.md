@@ -11,7 +11,6 @@
 - 🎓 I'm currently in my final years of my Bachelor's in Computer Science at Southern New Hampshire University
 - 💻 I'm currently working on a personal project that leans towards my hobbies.
 - 🔍 I'm currently learning about Maven dependencies and testing, and PostgreSQL.
-- 📫 How to reach me: kayla.e.cromer@gmail.com
 
 ## Languages and Tools:
 
